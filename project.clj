@@ -1,5 +1,5 @@
 (defproject ck.mailer "0.1.0-SNAPSHOT"
-  :description "FIXME: ck.mailer module for Conskit"
+  :description "Mailer module for Conskit"
   :url "https://website.com/example/ck.mailer"
   :license {:name "Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
