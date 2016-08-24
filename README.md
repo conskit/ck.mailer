@@ -33,9 +33,6 @@ email: {
 Add the dependency and binding in your serivice
 
 ```clojure
-(ns myapp
-  (:require [ck.react-server :as ckrs]))
-
 (defservice
   my-service
   [[:ActionRegistry register-bindings!]
