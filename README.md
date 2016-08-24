@@ -9,7 +9,7 @@ Add the dependency in the clojars badge above in your `project.clj`.
 Add the following to your `bootstrap.cfg`:
 
 ```
-ck.react-server/renderer
+ck.mailer/mailer
 ```
 
 Add the following to your `config.conf`
